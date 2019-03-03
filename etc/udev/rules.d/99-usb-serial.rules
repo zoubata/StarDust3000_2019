@@ -1,0 +1,5 @@
+ACTION=="add",ENV{ID_BUS}=="usb",ENV{ID_SERIAL_SHORT}=="0001",SYMLINK+="ttyUSBLidar"
+
+ACTION=="add",ENV{ID_BUS}=="usb",ENV{ID_SERIAL_SHORT}=="A900LFGP",SYMLINK+="ttyUSBMotor"
+
+
