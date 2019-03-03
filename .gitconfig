@@ -1,3 +1,5 @@
 [user]
 	email = zoubata@yahoo.Fr
 	name = zoubata
+[push]
+	default = simple
