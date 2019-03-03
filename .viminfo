@@ -25,12 +25,20 @@
 # Registers:
 
 # File marks:
-'0  25  0  /boot/config.txt
-'1  1  20  /boot/cmdline.txt
-'2  1  0  /boot/config.txt
-'3  4  0  /boot/config.txt
+'0  19  15  ~/stardust/scripts/update.sh
+'1  25  0  /boot/config.txt
+'2  1  20  /boot/cmdline.txt
+'3  1  0  /boot/config.txt
+'4  4  0  /boot/config.txt
 
 # Jumplist (newest first):
+-'  19  15  ~/stardust/scripts/update.sh
+-'  1  0  ~/stardust/scripts/update.sh
+-'  25  0  /boot/config.txt
+-'  1  0  /boot/config.txt
+-'  1  20  /boot/cmdline.txt
+-'  4  0  /boot/config.txt
+-'  1  20  /boot/cmdline.txt
 -'  25  0  /boot/config.txt
 -'  1  0  /boot/config.txt
 -'  1  20  /boot/cmdline.txt
@@ -38,6 +46,12 @@
 -'  1  20  /boot/cmdline.txt
 
 # History of marks within files (newest to oldest):
+
+> ~/stardust/scripts/update.sh
+	"	19	15
+	^	19	16
+	.	19	15
+	+	19	15
 
 > /boot/config.txt
 	"	25	0
