@@ -1,3 +1,6 @@
 [submodule "stardust"]
 	path = stardust
 	url = https://github.com/julienbayle/stardust
+[submodule "arduino"]
+	path = arduino
+	url = https://github.com/zoubata/StarDust3000Arduino_2019.git
