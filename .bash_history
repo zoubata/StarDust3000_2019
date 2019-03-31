@@ -176,3 +176,114 @@ ls
 minicom -b 230400 -o -D /dev/ttyUSB0 
 top
 sudo halt
+ps -aux
+ps -aux | grep vnc
+vncserver
+ls
+rm stardust/ 
+pwd
+ls
+git clone https://github.com/zoubata/StarDust3000_2019.git
+ping github.com
+git clone https://github.com/zoubata/StarDust3000_2019.git
+rm stardust/ 
+ping github.com
+git clone https://github.com/zoubata/StarDust3000_2019.git
+ls
+cd StarDust3000_2019/
+ls
+ls -alh
+mv -rf * ../
+mv -f * ../
+ls
+ls -alh
+mv -f .* ../
+mv -f .bù ../
+mv -f .b* ../
+ls -alh
+mv -f .r* ../
+mv -f .c* ../
+cp -rf .c* ../
+cp -rf .r* ../
+cp -rf stardust ../
+ls
+cd ..
+ls
+rm -rf StarDust3000_2019
+cd stardust/
+ls
+ls scripts/
+cat ./scripts/install.sh 
+cat ./scripts/update.sh 
+./scripts/update.sh 
+sudo swapon -s
+cd ..
+sudo fallocate -l 4G /swapfile
+sudo chmod 600 /swapfile
+sudo mkswap /swapfile
+sudo swapon /swapfile
+vim /etc/fstab
+sudo vim /etc/fstab
+vim /etc/fstab
+cd /dev/input
+sudo modprobe joydev
+sudo apt install python3-pip
+history
+sudo apt install python3-pyudev
+sudo apt install python3-evdev
+sudo apt install ds4drv
+sudo pip3 install ds4drv
+sudo apt install bluez
+ds4drv --hidraw --emulate-xboxdrv &
+ifconfig
+ifconfig | grep "inet addr"
+cd stardust/
+./scripts/update.sh 
+cat ./scripts/update.sh 
+ls scripts/
+cat ./scripts/update.sh 
+ls
+cat ./scripts/update.sh 
+catkin_make -j 1
+cd src
+ls
+cd ros/
+catkin_make -j 1
+cd ..
+cat ./scripts/update.sh 
+./scripts/update.sh 
+sudo vim /etc/udev/rules.d/99-usb-serial.rules
+ls /dev
+ls /dev/tt* -alh
+sudo restart
+sudo hlat -r
+sudo halt -r
+sudo halt 
+sudo apt updatesu
+R1
+sudo apt update
+sudo apt-get install realvnc-vnc-server realvnc-vnc-viewer
+sudo raspi-config
+sudo apt-get install realvnc-vnc-server realvnc-vnc-viewer
+sudo apt-get update
+sudo apt-get install realvnc-vnc-server realvnc-vnc-viewer
+sudo apt-get install tightvncserver 
+vncserver --help
+vncserver :10 - geometry 1280x1024
+ps -aux | grep vnc
+vncserver:10
+vncserver :10
+sudo raspi-config 
+cd .config/
+ls
+cd autostart/
+ls
+sudo nano tightvnc.desktop
+top
+sudo udevadm info --query=property --name=/dev/ttyUSB0 
+ls /dev
+top
+ls /dev
+sudo udevadm info --query=property --name=/dev/ttyUSB0 
+sudo udevadm info --query=property --name=/dev/ttyUSB0 | grep SERIAL
+ls

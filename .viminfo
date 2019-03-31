@@ -9,10 +9,10 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
+:q
 :q!
 :!q
 :!w
-:q
 
 # Search String History (newest to oldest):
 
@@ -25,13 +25,23 @@
 # Registers:
 
 # File marks:
-'0  19  15  ~/stardust/scripts/update.sh
-'1  25  0  /boot/config.txt
-'2  1  20  /boot/cmdline.txt
-'3  1  0  /boot/config.txt
-'4  4  0  /boot/config.txt
+'0  3  0  /etc/udev/rules.d/99-usb-serial.rules
+'1  2  0  /etc/fstab
+'2  5  0  /etc/fstab
+'3  6  42  /etc/fstab
+'4  19  15  ~/stardust/scripts/update.sh
+'5  25  0  /boot/config.txt
+'6  1  20  /boot/cmdline.txt
+'7  1  0  /boot/config.txt
+'8  4  0  /boot/config.txt
 
 # Jumplist (newest first):
+-'  3  0  /etc/udev/rules.d/99-usb-serial.rules
+-'  1  0  /etc/udev/rules.d/99-usb-serial.rules
+-'  2  0  /etc/fstab
+-'  1  0  /etc/fstab
+-'  5  0  /etc/fstab
+-'  6  42  /etc/fstab
 -'  19  15  ~/stardust/scripts/update.sh
 -'  1  0  ~/stardust/scripts/update.sh
 -'  25  0  /boot/config.txt
@@ -44,8 +54,102 @@
 -'  1  20  /boot/cmdline.txt
 -'  4  0  /boot/config.txt
 -'  1  20  /boot/cmdline.txt
+-'  19  15  ~/stardust/scripts/update.sh
+-'  1  0  ~/stardust/scripts/update.sh
+-'  25  0  /boot/config.txt
+-'  1  0  /boot/config.txt
+-'  1  20  /boot/cmdline.txt
+-'  4  0  /boot/config.txt
+-'  1  20  /boot/cmdline.txt
+-'  25  0  /boot/config.txt
+-'  1  0  /boot/config.txt
+-'  1  20  /boot/cmdline.txt
+-'  4  0  /boot/config.txt
+-'  1  20  /boot/cmdline.txt
+-'  4  42  /etc/fstab
+-'  19  15  ~/stardust/scripts/update.sh
+-'  1  0  ~/stardust/scripts/update.sh
+-'  25  0  /boot/config.txt
+-'  1  0  /boot/config.txt
+-'  1  20  /boot/cmdline.txt
+-'  4  0  /boot/config.txt
+-'  1  20  /boot/cmdline.txt
+-'  25  0  /boot/config.txt
+-'  1  0  /boot/config.txt
+-'  1  20  /boot/cmdline.txt
+-'  4  0  /boot/config.txt
+-'  1  20  /boot/cmdline.txt
+-'  19  15  ~/stardust/scripts/update.sh
+-'  1  0  ~/stardust/scripts/update.sh
+-'  25  0  /boot/config.txt
+-'  1  0  /boot/config.txt
+-'  1  20  /boot/cmdline.txt
+-'  4  0  /boot/config.txt
+-'  1  20  /boot/cmdline.txt
+-'  25  0  /boot/config.txt
+-'  1  0  /boot/config.txt
+-'  1  20  /boot/cmdline.txt
+-'  4  0  /boot/config.txt
+-'  1  20  /boot/cmdline.txt
+-'  19  15  ~/stardust/scripts/update.sh
+-'  1  0  ~/stardust/scripts/update.sh
+-'  25  0  /boot/config.txt
+-'  1  0  /boot/config.txt
+-'  1  20  /boot/cmdline.txt
+-'  4  0  /boot/config.txt
+-'  1  20  /boot/cmdline.txt
+-'  25  0  /boot/config.txt
+-'  1  0  /boot/config.txt
+-'  1  20  /boot/cmdline.txt
+-'  4  0  /boot/config.txt
+-'  1  20  /boot/cmdline.txt
+-'  19  15  ~/stardust/scripts/update.sh
+-'  1  0  ~/stardust/scripts/update.sh
+-'  25  0  /boot/config.txt
+-'  1  0  /boot/config.txt
+-'  1  20  /boot/cmdline.txt
+-'  4  0  /boot/config.txt
+-'  1  20  /boot/cmdline.txt
+-'  25  0  /boot/config.txt
+-'  1  0  /boot/config.txt
+-'  1  20  /boot/cmdline.txt
+-'  4  0  /boot/config.txt
+-'  1  20  /boot/cmdline.txt
+-'  19  15  ~/stardust/scripts/update.sh
+-'  1  0  ~/stardust/scripts/update.sh
+-'  25  0  /boot/config.txt
+-'  1  0  /boot/config.txt
+-'  1  20  /boot/cmdline.txt
+-'  4  0  /boot/config.txt
+-'  1  20  /boot/cmdline.txt
+-'  25  0  /boot/config.txt
+-'  1  0  /boot/config.txt
+-'  1  20  /boot/cmdline.txt
+-'  4  0  /boot/config.txt
+-'  1  20  /boot/cmdline.txt
+-'  19  15  ~/stardust/scripts/update.sh
+-'  1  0  ~/stardust/scripts/update.sh
+-'  25  0  /boot/config.txt
+-'  1  0  /boot/config.txt
+-'  1  20  /boot/cmdline.txt
+-'  2  0  /etc/fstab
+-'  1  0  /etc/fstab
+-'  5  0  /etc/fstab
 
 # History of marks within files (newest to oldest):
+
+> /etc/udev/rules.d/99-usb-serial.rules
+	"	3	0
+	^	3	0
+	.	2	88
+	+	2	88
+
+> /etc/fstab
+	"	2	0
+	^	5	0
+	.	4	44
+	+	6	41
+	+	4	44
 
 > ~/stardust/scripts/update.sh
 	"	19	15
